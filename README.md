@@ -12,7 +12,7 @@ Följ dessa steg för att snabbt komma igång med utveckling av detta projekt:
 1. **Klona repositoryt**:
    ```bash
    git clone https://github.com/MikaelaJohansson/backend_LIA_auth-server.git
-   cd backend_LIA
+   cd backend_LIA_auth-server
 
 2. Installera beroenden:
    npm install
